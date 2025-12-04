@@ -6,7 +6,7 @@
 
 ---
 
-<<div align="center">
+<div align="center">
 
 <!-- BACKEND -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -23,12 +23,15 @@
 
 <!-- REPO STATUS -->
 <img src="https://img.shields.io/github/issues/Harshithatla/Image-to-Speech-GenAI-Tool-Using-LLM?style=for-the-badge&color=yellow">
-<img src="https://img.shields.io/github/license/Harshithatla/Image-to-Speech-GenAI-Tool-Using-LLM?style=for-the-badge&color=blue">
+
+<!-- LICENSE (ADDED) -->
+<img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge">
 
 <!-- AESTHETIC -->
 <img src="https://img.shields.io/badge/Made%20With%20❤️-FF3366?style=for-the-badge">
 
 </div>
+
 
 ---
 
