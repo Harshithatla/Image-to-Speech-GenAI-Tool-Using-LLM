@@ -1,18 +1,32 @@
-# StoryGen: Image to Audio Story
+<h1 align="center">🖼️🔊 Image-to-Speech GenAI Tool</h1>
 
-Hey! This is a project I built to turn memories into magical stories. You just drop in some photos, pick a vibe (like "Fairy Tale" or "Sci-Fi"), and it uses AI to write a story and narrate it back to you.
+<p align="center">
+  Convert images into natural speech using modern multimodal AI models and a robust backend pipeline.
+</p>
 
-It's built using **React** for the frontend and **FastAPI** for the backend, powered by Google's **Gemini 2.5 Flash** model.
+---
 
-## What it does
+<div align="center">
 
-- **Visual Storytelling:** U# 🎙️ StoryGen — Image-to-Speech GenAI Tool  
-_transform your memories into magical narrated stories_
+<!-- PROJECT BADGES -->
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/Harshithatla/Image-to-Speech-GenAI-Tool-Using-LLM?style=for-the-badge&color=brightgreen">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Harshithatla/Image-to-Speech-GenAI-Tool-Using-LLM?style=for-the-badge&color=blue">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/Harshithatla/Image-to-Speech-GenAI-Tool-Using-LLM?style=for-the-badge&color=yellow">
+<img alt="GitHub license" src="https://img.shields.io/github/license/Harshithatla/Image-to-Speech-GenAI-Tool-Using-LLM?style=for-the-badge&color=orange">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/Harshithatla/Image-to-Speech-GenAI-Tool-Using-LLM?style=for-the-badge&color=red">
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Arundhuti2000/Image-to-Speech-GenAI-Tool-Using-LLM?color=blue)
-![GitHub License](https://img.shields.io/github/license/Arundhuti2000/Image-to-Speech-GenAI-Tool-Using-LLM?color=brightgreen)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/Arundhuti2000/Image-to-Speech-GenAI-Tool-Using-LLM)
-![GitHub Stars](https://img.shields.io/github/stars/Arundhuti2000/Image-to-Speech-GenAI-Tool-Using-LLM?style=social)
+<!-- TECH STACK -->
+<br><br>
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white">
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="Google Gemini" src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white">
+
+</div>
 
 ---
 
