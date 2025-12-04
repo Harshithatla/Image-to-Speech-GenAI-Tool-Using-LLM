@@ -410,3 +410,26 @@ frontend/node_modules/
 # Guides
 DEPLOYMENT_GUIDE.md
 PRESENTATION.md
+
+
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+
+# Next.js
+.next/
+out/
+
+# Python
+__pycache__/
+env/
+venv/
+.env
+
+# Mac
+.DS_Store
+
+# Build
+dist/
+build/
