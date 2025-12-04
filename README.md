@@ -6,25 +6,27 @@
 
 ---
 
-<div align="center">
+<<div align="center">
 
-<!-- PROJECT BADGES -->
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/Harshithatla/Image-to-Speech-GenAI-Tool-Using-LLM?style=for-the-badge&color=brightgreen">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Harshithatla/Image-to-Speech-GenAI-Tool-Using-LLM?style=for-the-badge&color=blue">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/Harshithatla/Image-to-Speech-GenAI-Tool-Using-LLM?style=for-the-badge&color=yellow">
-<img alt="GitHub license" src="https://img.shields.io/github/license/Harshithatla/Image-to-Speech-GenAI-Tool-Using-LLM?style=for-the-badge&color=orange">
-<img alt="Last commit" src="https://img.shields.io/github/last-commit/Harshithatla/Image-to-Speech-GenAI-Tool-Using-LLM?style=for-the-badge&color=red">
+<!-- BACKEND -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white">
 
-<!-- TECH STACK -->
-<br><br>
+<!-- FRONTEND -->
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 
-<img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white">
-<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img alt="Google Gemini" src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white">
+<!-- PLATFORM -->
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+
+<!-- REPO STATUS -->
+<img src="https://img.shields.io/github/issues/Harshithatla/Image-to-Speech-GenAI-Tool-Using-LLM?style=for-the-badge&color=yellow">
+<img src="https://img.shields.io/github/license/Harshithatla/Image-to-Speech-GenAI-Tool-Using-LLM?style=for-the-badge&color=blue">
+
+<!-- AESTHETIC -->
+<img src="https://img.shields.io/badge/Made%20With%20❤️-FF3366?style=for-the-badge">
 
 </div>
 
